@@ -1,0 +1,32 @@
+{
+    "name": "leetcode",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nesro/leetcode.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nesro/leetcode/issues"
+    },
+    "homepage": "https://github.com/nesro/leetcode#readme",
+    "dependencies": {
+        "ts-node": "^10.9.2"
+    },
+    "devDependencies": {
+        "@types/node": "^22.6.1",
+        "@typescript-eslint/eslint-plugin": "^8.7.0",
+        "@typescript-eslint/parser": "^8.7.0",
+        "eslint": "^9.11.1",
+        "eslint-config-prettier": "^9.1.0",
+        "eslint-plugin-prettier": "^5.2.1",
+        "eslint-plugin-unicorn": "^55.0.0",
+        "prettier": "^3.3.3"
+    }
+}
